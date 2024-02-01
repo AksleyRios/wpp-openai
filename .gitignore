@@ -2,3 +2,4 @@ venv/
 ngrok/
 test.py
 test_dalle.py
+path/
